@@ -1,20 +1,21 @@
-package com.java.buildpattern01.practice;
+package com.java.buildpattern.ex01;
 
 public class ComputerFactory {
-	
+
 	private BluePrint bluePrint;
 	
 	public void setBluePrint(BluePrint bluePrint) {
 		this.bluePrint = bluePrint;
 	}
-	
-	public Computer makeAndGet() {
+
+	public void make() {
 		bluePrint.setCpu();
 		bluePrint.setRam();
-		bluePrint.setVga();
 		bluePrint.setStorage();
-		bluePrint.setMouse();
-		
+	}
+
+	public Computer getComputer() {
 		return bluePrint.getComputer();
 	}
+
 }

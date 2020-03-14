@@ -1,4 +1,4 @@
-package com.java.buildpattern02;
+package com.java.buildpattern.ex02;
 
 public class ComputerBuilder {
 	

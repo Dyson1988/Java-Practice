@@ -1,4 +1,4 @@
-package com.java.buildpattern01;
+package com.java.buildpattern.ex01;
 
 public class LgGramBluePrint extends BluePrint {
 

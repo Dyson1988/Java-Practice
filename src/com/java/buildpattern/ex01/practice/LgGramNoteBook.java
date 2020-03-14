@@ -1,4 +1,4 @@
-package com.java.buildpattern01.practice;
+package com.java.buildpattern.ex01.practice;
 
 public class LgGramNoteBook extends BluePrint {
 

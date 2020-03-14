@@ -1,4 +1,4 @@
-package com.java.buildpattern02;
+package com.java.buildpattern.ex02;
 
 /*
 	학습 목표 : 많은 변수를 가진 객체의 생성을 가독성 높도록 코딩 할 수 있다.

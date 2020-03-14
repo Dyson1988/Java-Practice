@@ -1,7 +1,7 @@
-package com.java.buildpattern01.practice;
+package com.java.buildpattern.ex02.practice;
 
 public class Computer {
-
+	
 	private String cpu;
 	private String ram;
 	private String storage;
